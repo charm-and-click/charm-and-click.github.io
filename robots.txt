@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /d/
+Disallow: /p/
+
+Sitemap: https://charm-and-click.github.io/sitemap.xml

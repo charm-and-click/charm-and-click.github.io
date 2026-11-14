@@ -1,0 +1,30 @@
+# Charm & Click
+
+> Digital wedding invitations in Bangla and English, and landing page design for Facebook sellers in Bangladesh. See live demos, then order by message.
+
+Vowberry: Digital invitations for holud night, nikah, walima, reception and every celebration in between. One link holds the date, the programme, the map and the RSVP. Premium costs ৳2,000 (Graceful, simple and quick to share). Elegant costs ৳3,000 (A theatre curtain your guests open themselves).
+
+ClickCraft: Landing page design for brands that sell through ads, Facebook and WhatsApp. One beautiful page with a clear offer, fast on any phone, and one button that brings the customer straight to you. Premium costs ৳3,000 (A clean landing page design that sells). Elegant costs ৳6,000 (A brand experience, designed from scratch).
+
+Q: Can I have my invitation in Bangla? A: Yes. Every invitation can be made in English, in Bangla, or in both with a language button for your guests.
+Q: Which events do you make invitations for? A: Holud night, nikah, walima, reception, engagement, aqiqah, birthdays, anniversaries and other celebrations.
+Q: Does ClickCraft build online shops or apps? A: No. ClickCraft designs landing pages: one page that shows your offer beautifully and sends customers to your WhatsApp, Messenger or phone. We do not do backend work, so there are no logins, carts, payment gateways, databases or admin panels to build or manage.
+Q: When do I pay? A: You pay 50% to confirm the order. You then see a watermarked preview, and pay the other 50% when you receive the final version.
+Q: How long does it take? A: Invitation previews are usually ready within 2 days. Landing pages depend on your content, and we will give you a date before we start.
+Q: How do I pay? A: bKash, bank account inside Bangladesh. If you are outside Bangladesh, message us and we will arrange a way that works for you.
+Q: Can you change the colours or wording? A: Yes. Every demo can be changed to suit your event or brand.
+
+Contact: email charmclick9450@gmail.com, based in Dhaka, Bangladesh. Orders are taken by message on Facebook, Instagram or email.
+
+## Pages
+
+- [Charm & Click home](https://charm-and-click.github.io/): both services, prices, the process and answers to common questions
+- [Vowberry](https://charm-and-click.github.io/vowberry/): Digital invitations for Holud, Nikah, Walima and Reception in Bangla or English. One link with date, map, countdown and RSVP. From ৳2,000.
+- [ClickCraft](https://charm-and-click.github.io/clickcraft/): Landing page design for brands that sell through Facebook ads and WhatsApp. One fast, phone-first page with your offer and an order button. From ৳3,000.
+
+## Optional
+
+- [Facebook](https://www.facebook.com/1493474267177437): message us here to order
+- [Instagram](https://www.instagram.com/_vowberry_/): message us here to order
+- [Facebook](https://www.facebook.com/1370788572794485): message us here to order
+- [Instagram](https://www.instagram.com/___clickcraft___/): message us here to order
